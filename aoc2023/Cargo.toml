@@ -8,4 +8,3 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.75"
 nom = { version = "7.1.3", features = ["alloc"] }
-regex = "1.10.2"
